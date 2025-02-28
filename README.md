@@ -1,47 +1,50 @@
-##Simple School Management System
+## Simple School Management System
 
-#Overview
+# Overview
 
-The Simple School Management System is a web-based application built using Node.js, Express.js, and JWT Authentication. It includes separate panels for Teachers, Students, and Admins, providing different levels of access and functionalities.
+The Simple School Management System is a web-based application built using Node.js, Express.js, and JWT Authentication. It includes separate panels for Teachers, Students, and Admins, providing different access levels and functionalities.
 
-#Features
+# Features
 
-#Admin Panel
+# Admin Panel
 
--Manage teachers and students
+- Manage teachers and students
 
--Assign students to teachers
+- Assign students to teachers
 
--View reports and system statistics
+- View reports and system statistics
 
--Manage roles and permissions
+- Manage roles and permissions
 
-#Teacher Panel
+# Teacher Panel
 
--View assigned students
+- View assigned students
 
--Assign grades and feedback
+- Assign grades and feedback
 
--Create and manage assignments
+- Create and manage assignments
 
--View student progress reports
+- View student progress reports
 
-#Student Panel
+# Student Panel
 
--View assigned teachers
+- View assigned teachers
 
--Submit assignments
+- Submit assignments
 
--Check grades and feedback
+- Check grades and feedback
 
--Access study materials
+- Access study materials
 
-#Technologies Used
+# Technologies Used
 
--Backend: Node.js, Express.js
+- Backend: Node.js, Express.js
 
--Authentication: JSON Web Tokens (JWT)
+- Authentication: JSON Web Tokens (JWT)
 
--Database: MySQL
+- Database: MySQL
 
--Middleware: Express Middleware (Cors, Body-parser, Morgan, etc.)
+- Middleware: Express Middleware (Cors, Body-parser, Morgan, etc.)
+
+# Installation
+- npm install
